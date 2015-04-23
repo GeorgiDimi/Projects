@@ -15,7 +15,7 @@ public class ChangePassActivity extends Activity {
 	public static final String PREFS_NAME = "MyPasswordsFile";
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
+		super.onCreate(savedInstanceState); 
 		setContentView(R.layout.activity_change_pass);
 		// Show the Up button in the action bar.
 		setupActionBar();
