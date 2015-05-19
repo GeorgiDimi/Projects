@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Wallet</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="placeHolder"> This is a placeholder for %1d tab</string>
+    <string name="cardName">Card Name</string>
+    <string name="cardLine1">info 1</string>
+    <string name="cardLine2">info 2</string>
+    <string name="cardLine1_1">info 1_1</string>
+    <string name="cardLine2_2">info 2_1</string>
+    <string name="cardNumber">card number</string>
+    <string name="drawer_open">open nav panel</string>
+    <string name="drawer_close">close nav panel</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+</resources>
